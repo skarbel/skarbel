@@ -53,3 +53,5 @@ https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarbel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
