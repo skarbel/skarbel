@@ -27,6 +27,7 @@ https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarbel&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=skarbel)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
