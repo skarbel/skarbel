@@ -24,6 +24,9 @@ https://github.com/anuraghazra/github-readme-stats
 https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 
 -->
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarbel&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
