@@ -30,7 +30,7 @@ https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarbel&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <p align="left">
     <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> 
