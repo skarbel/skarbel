@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Complete list of github markdown emoji markup
+https://gist.github.com/rxaviers/7360908
+
 GitHub Readme Stats
 https://github.com/anuraghazra/github-readme-stats
 
