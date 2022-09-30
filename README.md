@@ -28,7 +28,7 @@ https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarbel&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <p align="left">
@@ -41,6 +41,8 @@ https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarbel&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
